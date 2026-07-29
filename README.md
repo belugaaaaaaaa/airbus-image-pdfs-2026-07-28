@@ -1,8 +1,14 @@
-# Image PDF Collection - 2026-07-28
+# Image Collection - 2026-07-28
 
-This repository contains the split PDF collection for easier viewing and downloading.
+This repository contains the original image files from 2026-07-28, plus split PDF files for easier viewing and downloading.
 
-Files:
+Original files are in `originals/`:
+
+- 21 HEIC files
+- 10 DNG files
+- 31 files total
+
+Split PDF files:
 
 - `images_2026-07-28_collection_part01.pdf` - 5 pages, about 23 MB
 - `images_2026-07-28_collection_part02.pdf` - 5 pages, about 20 MB
