@@ -1,14 +1,22 @@
 # Image Collection - 2026-07-28
 
-This repository contains the original image files from 2026-07-28, plus split PDF files for easier viewing and downloading.
+This repository contains original image files and split PDF files for easier viewing and downloading.
 
-Original files are in `originals/`:
+Original files from 2026-07-28 are in `originals/`:
 
 - 21 HEIC files
 - 10 DNG files
 - 31 files total
 
-Split PDF files:
+Original files from 2026-07-30 are attached to this release:
+
+https://github.com/belugaaaaaaaa/airbus-image-pdfs-2026-07-28/releases/tag/photos-2026-07-30
+
+- 16 HEIC files
+- 3 DNG files
+- 19 files total
+
+Split PDF files for 2026-07-28:
 
 - `images_2026-07-28_collection_part01.pdf` - 5 pages, about 23 MB
 - `images_2026-07-28_collection_part02.pdf` - 5 pages, about 20 MB
